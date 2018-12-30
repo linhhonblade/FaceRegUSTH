@@ -1,0 +1,4 @@
+# Do not track contents of these folders
+training data/
+test-data/
+
