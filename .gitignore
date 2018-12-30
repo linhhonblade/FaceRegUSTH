@@ -1,4 +1,4 @@
-# Do not track contents of these folders
+# Do not track contents of these files and folders
 training data/
 test-data/
-
+track_face.py
