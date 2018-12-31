@@ -31,7 +31,7 @@ def prepare_training_data(data_folder_path):
     dirs = os.listdir(data_folder_path)
     faces = []
     #list to hold labels for all subjects
-    labels = []faces = face_cascade.detectMultiScale(gray, 1.3, 5)
+    labels = []
     #let's go through each directory and read images within it
     for dir_name in dirs:
 
